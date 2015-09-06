@@ -45,7 +45,7 @@ trocaBanner() \{\
 \pard\pardeftab720\sa240
 \cf0 \expnd0\expndtw0\kerning0
 setInterval(trocaBanner, \cf3 \expnd0\expndtw0\kerning0
-2000\cf0 \expnd0\expndtw0\kerning0
+1000\cf0 \expnd0\expndtw0\kerning0
 );\uc0\u8232 
 \fs24 \expnd0\expndtw0\kerning0
 \
